@@ -8,11 +8,20 @@ const client = new Client({
     ]
 });
 
-const port = process.env.PORT || 4000 
+const express = require("express");
+const app = express();
 
+const port = process.env.PORT || 3000;
+
+// Example route
+app.get("/", (req, res) => {
+  res.send("Hello from ParaisoCore!");
+});
+
+// Start server
 app.listen(port, () => {
-  console.log(`ParaisoCore listening on port ${port}`)
-})
+  console.log(`Server is running on port ${port}`);
+});
 
 const PREFIX = '!';
 const CHANGELOG_CHANNEL_ID = '1400415683833102406';
