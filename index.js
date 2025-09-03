@@ -19,7 +19,7 @@ const minecraftRules = {
     '1': {
         title: 'Respect for Creations',
         description: 'Article I — Respect for Creations',
-        color: 0x8B4513,
+        color: 0x138B4F,
         subarticles: {
             '1.1': 'No member shall destroy, alter, or steal from the builds of another without consent.',
             '1.2': 'The act of griefing, raiding, or trespassing is forbidden within all realms of Paraiso.'
@@ -28,7 +28,7 @@ const minecraftRules = {
     '2': {
         title: 'Integrity of Play',
         description: 'Article II — Integrity of Play',
-        color: 0x32CD32,
+        color: 0x138B4F,
         subarticles: {
             '2.1': 'The use of hacked clients, x-ray, duplication glitches, or exploits that grant unfair advantage is prohibited.',
             '2.2': 'The use of autoclickers, auto-aim, macros, or scripts designed to automate gameplay is strictly forbidden.',
@@ -38,7 +38,7 @@ const minecraftRules = {
     '3': {
         title: 'Boundaries of the Land',
         description: 'Article III — Boundaries of the Land',
-        color: 0x228B22,
+        color: 0x138B4F,
         subarticles: {
             '3.1': 'Members shall respect land claims and protected regions.',
             '3.2': 'Construction too near another\'s settlement without consent is unlawful.'
@@ -47,7 +47,7 @@ const minecraftRules = {
     '4': {
         title: 'Creations & Expression',
         description: 'Article IV — Creations & Expression',
-        color: 0xFF6347,
+        color: 0x138B4F,
         subarticles: {
             '4.1': 'Builds or symbols of an inappropriate, offensive, or NSFW nature are forbidden.',
             '4.2': 'Political or historically controversial structures that may incite conflict or division are prohibited.',
@@ -57,7 +57,7 @@ const minecraftRules = {
     '5': {
         title: 'Combat & PvP Conduct',
         description: 'Article V — Combat & PvP Conduct',
-        color: 0xDC143C,
+        color: 0x138B4F,
         subarticles: {
             '5.1': 'Spawn-killing, unfair trapping, or abusing mechanics to repeatedly kill others is prohibited.',
             '5.2': 'PvP shall be fair and without the aid of cheats or automated tools.'
@@ -66,7 +66,7 @@ const minecraftRules = {
     '6': {
         title: 'Economy & Rank',
         description: 'Article VI — Economy & Rank',
-        color: 0xFFD700,
+        color: 0x138B4F,
         subarticles: {
             '6.1': 'Scamming, deception, or abuse of shops and trades is forbidden.',
             '6.2': 'Exploitation of the economy through glitches or manipulation is unlawful.',
@@ -76,7 +76,7 @@ const minecraftRules = {
     '7': {
         title: 'Preservation of the Realm',
         description: 'Article VII — Preservation of the Realm',
-        color: 0x4169E1,
+        color: 0x138B4F,
         subarticles: {
             '7.1': 'Lag machines, excessive redstone clocks, or entities that strain performance are forbidden.',
             '7.2': 'Members must avoid excessive terrain destruction that ruins the environment of Paraiso.'
@@ -85,7 +85,7 @@ const minecraftRules = {
     '8': {
         title: 'Conduct & Community',
         description: 'Article VIII — Conduct & Community',
-        color: 0x9932CC,
+        color: 0x138B4F,
         subarticles: {
             '8.1': 'Members shall not incite or perpetuate unnecessary drama, disputes, or toxic rivalries.',
             '8.2': 'Hate speech, slander, or targeted negativity toward individuals or groups shall not be tolerated.',
@@ -95,7 +95,7 @@ const minecraftRules = {
     '9': {
         title: 'Authority & Order',
         description: 'Article IX — Authority & Order',
-        color: 0x800080,
+        color: 0x138B4F,
         subarticles: {
             '9.1': 'The rulings of Zeki and the Guardians (staff) are final and binding.',
             '9.2': 'Appeals may be brought forth with respect and proper context.'
@@ -116,7 +116,7 @@ const discordRules = {
     '2': {
         title: 'Proper Conduct',
         description: 'Article II — Proper Conduct',
-        color: 0x57F287,
+        color: 0x131B8B,
         subarticles: {
             '2.1': 'Toxicity, excessive arguments, or hostile behavior have no place within Paraiso.'
         }
@@ -124,7 +124,7 @@ const discordRules = {
     '3': {
         title: 'Language & Content',
         description: 'Article III — Language & Content',
-        color: 0xFEE75C,
+        color: 0x131B8B,
         subarticles: {
             '3.1': 'All messages and media must remain safe for all members. NSFW, overly offensive, or harmful content is prohibited.'
         }
@@ -132,7 +132,7 @@ const discordRules = {
     '4': {
         title: 'Chat Etiquette',
         description: 'Article IV — Chat Etiquette',
-        color: 0xED4245,
+        color: 0x131B8B,
         subarticles: {
             '4.1': 'Spamming, flooding, excessive emojis, or disruptive behavior is not permitted.'
         }
@@ -140,7 +140,7 @@ const discordRules = {
     '5': {
         title: 'Authority of Staff',
         description: 'Article V — Authority of Staff',
-        color: 0x9932CC,
+        color: 0x131B8B,
         subarticles: {
             '5.1': 'The word of Zeki and the Moderators shall be final. Members must respect staff directions at all times.'
         }
@@ -148,7 +148,7 @@ const discordRules = {
     '6': {
         title: 'Privacy & Safety',
         description: 'Article VI — Privacy & Safety',
-        color: 0xFF6347,
+        color: 0x131B8B,
         subarticles: {
             '6.1': 'No member shall share personal information of themselves or others. Doxxing or unsafe behavior is strictly forbidden.'
         }
@@ -156,7 +156,7 @@ const discordRules = {
     '7': {
         title: 'Harmony of the Community',
         description: 'Article VII — Harmony of the Community',
-        color: 0x00CED1,
+        color: 0x131B8B,
         subarticles: {
             '7.1': 'Members are expected to contribute positively, ensuring that Paraiso remains a welcoming and enjoyable space for all.'
         }
