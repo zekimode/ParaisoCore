@@ -15,7 +15,11 @@
   "license": "ISC",
   "description": "ParaisoCore, the core of ParaisoMC",
   "dependencies": {
+<<<<<<< HEAD
     "discord.js": "^14.22.1",
     "express": "^5.1.0"
+=======
+    "discord.js": "^14.22.1"
+>>>>>>> 4262dd03a384bfdc49f90b1edd0b69bacca2aa67
   }
 }
