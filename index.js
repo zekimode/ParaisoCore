@@ -13,11 +13,11 @@ const app = express()
 const port = process.env.PORT || 4000 
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello!')
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`ParaisoCore listening on port ${port}`)
 })
 
 const PREFIX = '!';
