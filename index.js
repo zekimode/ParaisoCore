@@ -7,6 +7,7 @@ const client = new Client({
         GatewayIntentBits.MessageContent
     ]
 });
+const { setupCommands } = require("./bot");
 
 const express = require("express");
 const app = express();
