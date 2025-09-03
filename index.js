@@ -8,6 +8,18 @@ const client = new Client({
     ]
 });
 
+const express = require('express')
+const app = express()
+const port = process.env.PORT || 4000 
+
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+})
+
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`)
+})
+
 const PREFIX = '!';
 const CHANGELOG_CHANNEL_ID = '1400415683833102406';
 
